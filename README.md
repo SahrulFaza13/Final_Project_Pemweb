@@ -1,16 +1,10 @@
 # Final_Project_Pemweb
 
-# Nama Kelompok 
-1. Irsyaad Nuur Wicaksana (23081010241)
-2. Mohammad Sahrul Faza (23081010242)
-3. Achmad Salman Pasha (23081010262)
-4. Nathanael Kristian Sujarwo (23081010271)
-5. Erwin Anindya Prasojo (23081010273)
-
 # Pengembangan Sistem Penjualan dan Manajemen Berbasis Website
 # Studi Kasus: Kafe Ngacup Surabaya 
 
-# Deskripsi Singkat = Tujuan dari proyek ini adalah untuk membangun sebuah sistem berbasis web yang akan membantu proses penjualan dan manajemen produk, pesanan, dan pengguna di Kafe Ngacup Surabaya. Sistem ini akan melayani dua tipe pengguna utama, yaitu pengguna umum (pelanggan atau anggota) dan admin, masing-masing dengan fitur yang berbeda-beda sesuai dengan peran mereka.
+# Tujuan dari proyek 
+Website ditujukan untuk membangun sebuah sistem berbasis web yang akan membantu proses penjualan dan manajemen produk, pesanan, dan pengguna di Kafe Ngacup Surabaya. Sistem ini akan melayani dua tipe pengguna utama, yaitu pengguna umum (pelanggan atau anggota) dan admin, masing-masing dengan fitur yang berbeda-beda sesuai dengan peran mereka.
 
 # Alur Sistem
 
