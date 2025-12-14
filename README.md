@@ -1,7 +1,6 @@
-# Final_Project_Pemweb
+# Final Project
 
-# Pengembangan Sistem Penjualan dan Manajemen Berbasis Website
-# Studi Kasus: Kafe Ngacup Surabaya 
+Software development untuk Sistem Penjualan dan Manajemen Berbasis Website 
 
 # Tujuan dari proyek 
 Website ditujukan untuk membangun sebuah sistem berbasis web yang akan membantu proses penjualan dan manajemen produk, pesanan, dan pengguna di Kafe Ngacup Surabaya. Sistem ini akan melayani dua tipe pengguna utama, yaitu pengguna umum (pelanggan atau anggota) dan admin, masing-masing dengan fitur yang berbeda-beda sesuai dengan peran mereka.
