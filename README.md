@@ -39,10 +39,10 @@ Website ditujukan untuk membangun sebuah sistem berbasis web yang akan membantu 
 - Database: MySQL
 
 # Fitur Utama
-🔐 Autentikasi (Login & Register)
-📋 Manajemen Menu Makanan/Minuman
-🛒 Pemesanan Produk dan Pembayaran
-🧑‍💼 Manajemen Pengguna dan Notifikasi Pesanan (Admin)
-📈 Dashboard Admin Interaktif
+- 🔐 Autentikasi (Login & Register)
+- 📋 Manajemen Menu Makanan/Minuman
+- 🛒 Pemesanan Produk dan Pembayaran
+- 🧑‍💼 Manajemen Pengguna dan Notifikasi Pesanan (Admin)
+- 📈 Dashboard Admin Interaktif
 
 
